@@ -11,7 +11,7 @@ I'm a passionate web developer specializing in building and designing exceptiona
 <!-- #- 👯 I’m looking to collaborate on [Project/Area of Interest] -->
 <!-- - 💬 Ask me about web development, JavaScript, or any technology I'm familiar with -->
 - 📫 How to reach me: prach.butpa1997@gmail.com
-- ![test]
+![test](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🛠️ Technologies & Tools
 
