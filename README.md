@@ -7,7 +7,7 @@ I'm a passionate web developer specializing in building and designing exceptiona
 
 <!-- This is a comment in Markdown -->
 <!-- - 🔭 I’m currently working on [Your Project] -->
-- 🌱 I’m currently learning NextJS, MongoDB, Go lang
+- 🌱 I’m currently learning ElysiaJS, NextJS, Go lang
 <!-- - 👯 I’m looking to collaborate on [Project/Area of Interest] -->
 <!-- - 💬 Ask me about web development, JavaScript, or any technology I'm familiar with -->
 - 📫 How to reach me: prach.butpa1997@gmail.com
